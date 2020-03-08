@@ -6,3 +6,6 @@ There is statistic how many is infected, recovered, and death by this virus.
 
 <span><img src="https://user-images.githubusercontent.com/17944191/76162660-5e087500-6172-11ea-8960-e2ed9bfcd94b.png" width="200" />
 <img src="https://user-images.githubusercontent.com/17944191/76162670-74aecc00-6172-11ea-8667-8dfb31476164.png" width="200" /></span>
+
+# Library Used
+- Sunburst Diagram https://github.com/lludo/SwiftSunburstDiagram
