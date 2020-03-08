@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SunburstDiagram",
+        "repositoryURL": "https://github.com/lludo/SwiftSunburstDiagram.git",
+        "state": {
+          "branch": null,
+          "revision": "23ac804b97642ca288d5cdd0c0cc339e2d9353ec",
+          "version": "1.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
